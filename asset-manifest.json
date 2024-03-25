@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tr.github.io/static/css/main.8befc475.css",
+    "main.js": "/tr.github.io/static/js/main.a3345b1a.js",
+    "index.html": "/tr.github.io/index.html",
+    "main.8befc475.css.map": "/tr.github.io/static/css/main.8befc475.css.map",
+    "main.a3345b1a.js.map": "/tr.github.io/static/js/main.a3345b1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8befc475.css",
+    "static/js/main.a3345b1a.js"
+  ]
+}
